@@ -3,4 +3,5 @@ Mountains In Wales
 
 * Pen y Fan
 * Tryfan
-* Yr Wyddfa
+* Snowdon
+* Fan y Big
